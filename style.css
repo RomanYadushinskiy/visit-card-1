@@ -88,8 +88,12 @@ body
 }
 .card .user .content h2 .ok 
 {
-    height: 20px;
     color: yellow;
+}
+.card .user .content h2 .zdor 
+{
+    font-size: small;
+    color: black;
 }
 .card .user .toggle
 {
