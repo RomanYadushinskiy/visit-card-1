@@ -82,6 +82,15 @@ body
     font-size: 0.75em;
     font-weight: 400;
 }
+.card .user .content h2 .sad
+{
+    color: blue;
+}
+.card .user .content h2 .ok 
+{
+    height: 20px;
+    color: yellow;
+}
 .card .user .toggle
 {
     position: absolute;
